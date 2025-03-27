@@ -3,6 +3,10 @@ summary {
 }
 
 .section {
+  & {
+    padding: 4rem;
+  }
+
   &:first-of-type {
     padding-top: 4rem;
   }
@@ -29,8 +33,6 @@ summary {
   @media (max-width: 1000px) {
     padding: 3rem 2rem;
   }
-
-  padding: 4rem;
 }
 
 .center {

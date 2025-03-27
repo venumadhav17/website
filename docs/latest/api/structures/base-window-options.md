@@ -1,7 +1,7 @@
 ---
 title: "BaseWindowConstructorOptions Object"
 description: ""
-slug: base-window-options
+slug: /base-window-options
 hide_title: false
 ---
 

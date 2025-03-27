@@ -153,7 +153,7 @@ Prints Chromium's internal logging to the console.
 
 Setting this variable is the same as passing `--enable-logging`
 on the command line. For more info, see `--enable-logging` in
-[command-line switches](./command-line-switches.md#--enable-loggingfile).
+[command-line switches](./command-line-switches.md#--enable-logging).
 
 ### `ELECTRON_LOG_FILE`
 
@@ -161,7 +161,7 @@ Sets the file destination for Chromium's internal logging.
 
 Setting this variable is the same as passing `--log-file`
 on the command line. For more info, see `--log-file` in
-[command-line switches](./command-line-switches.md#--log-filepath).
+[command-line switches](./command-line-switches.md#--log-file).
 
 ### `ELECTRON_DEBUG_NOTIFICATIONS`
 
